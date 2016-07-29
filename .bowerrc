@@ -1,0 +1,5 @@
+{
+  "directory": "bower_components",
+  "proxy": "http://stbeproxy.symphonyteleca.com:8080",
+  "https-proxy":"http://stbeproxy.symphonyteleca.com:8080"
+}
